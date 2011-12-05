@@ -1,0 +1,5 @@
+Ryan Schmitt's contribution to the final project for CSC 570 Bio Informatics.
+
+Detects machine errors in pyroprints by looking for drastic correlation drops.
+
+Also, the Makefile isn't a real makefile, since make doesn't like ':'. I just use it to remember what command and arguments compile and run this program.
